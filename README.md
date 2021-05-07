@@ -1,0 +1,2 @@
+# appiumapi
+记录一点关于用appium做自动化的一些自己封装的api
